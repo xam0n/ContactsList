@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     Cursor mContacts;
 	int i;
 	int ii;
+	String masterBranch;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
