@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
 	int i;
 	int ii;
 	String masterBranch;
+	String masterBranch2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
