@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
     SimpleCursorAdapter scAdapter;
     Cursor mContacts;
 	int i;
+	int ii;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
