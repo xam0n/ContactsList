@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
     ListView lvContacts;
     SimpleCursorAdapter scAdapter;
     Cursor mContacts;
+	int i;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
